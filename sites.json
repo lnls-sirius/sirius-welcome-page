@@ -1,0 +1,60 @@
+{
+    "sites": [
+        {
+            "title": "Archiver Viewer",
+            "desc": "A jQuery-based EPICS Archiver viewer.",
+            "links": [
+                "https://10.0.38.34/retrieval"
+            ]
+        },
+        {
+            "title": "EPICS Olog",
+            "desc": "EPICS journal.",
+            "links": [
+                "https://10.0.6.57/olog"
+            ]
+        },
+        {
+            "title": "Archiver Appliance Management Interface",
+            "desc": "A web interface to configure and monitor the appliances.",
+            "links": [
+                "https://10.0.38.34/archiver"
+            ]
+        },
+        {
+            "title": "Beaglebone Black",
+            "desc": "A simple react app to manage beaglebones.",
+            "links": [
+                "https://10.0.38.34/bbb-daemon"
+            ]
+        },
+        {
+            "title": "Docker Management Interface",
+            "desc": "A simple management solution for Docker.",
+            "links": [
+                "https://10.0.38.34/docker"
+            ]
+        },
+        {
+            "title": "CON Wiki",
+            "desc": "Wiki-sirius page of Controls Group (CON), involved with the maintenance of UVX and Sirius control system design and implementation.",
+            "links": [
+                "https://wiki-sirius.lnls.br/mediawiki/index.php/CON:CON"
+            ]
+        },
+        {
+            "title": "Official GitHub",
+            "desc": "GitHub page.",
+            "links": [
+                "https://github.com/lnls-sirius"
+            ]
+        },
+        {
+            "title": "Official GitLab",
+            "desc": "GitLab page.",
+            "links": [
+                "https://gitlab.cnpem.br/users/sign_in"
+            ]
+        }
+    ]
+}

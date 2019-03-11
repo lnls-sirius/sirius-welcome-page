@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Just a simple welcome page.">
+  <meta name="author" content="Claudio Carneiro">
+
+  <title>LNLS CONS - Services</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">LNLS CON - Services</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+        aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container ">
+    <div class="row">
+        {{#sites}}
+            <div class="col-md-6">
+            <div class="card mb-2 mt-2 shadow-sm text-center">
+                <div class="card-body">
+                    <h4 class="card-title">{{{title}}}</h5>
+                    <p class="card-text">{{{desc}}}</p>
+                    {{#links}}
+                        <a href="{{{.}}}" target="_blank">{{{.}}}</a>
+                    {{/links}}
+                </div>
+            </div>
+            </div>
+        {{/sites}}
+    </div>
+  </div>
+  <!-- Bootstrap core JavaScript -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.bundle.min.js"></script>
+
+  <footer class="text-muted">
+  <div class="container">
+    <p class="float-right">
+      <a href="#">Back to top</a>
+    </p>
+    </div>
+</footer>
+</body>
+
+</html>
