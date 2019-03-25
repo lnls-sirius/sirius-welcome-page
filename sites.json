@@ -39,14 +39,14 @@
             "title": "Zabbix Management Interface",
             "desc": "CONS network monitoring metrics.",
             "links": [
-                "https://10.0.38.42/zabbix"
+                "https://10.0.38.42/zabbix/"
             ]
         },
         {
             "title": "Docker Management Interface",
             "desc": "A simple management solution for Docker.",
             "links": [
-                "https://10.0.38.42/docker"
+                "https://10.0.38.42/portainer/"
             ]
         },
         {
