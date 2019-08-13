@@ -32,21 +32,21 @@
             "title": "Beaglebone Black",
             "desc": "A simple react app to manage beaglebones.",
             "links": [
-                "https://10.0.38.42/bbb-daemon"
+                "https://10.128.255.5/bbb-daemon"
             ]
         },
         {
-            "title": "Zabbix Management Interface",
-            "desc": "CONS network monitoring metrics.",
+            "title": "Control-system Constants",
+            "desc": "Control-system constants page.",
             "links": [
-                "https://10.0.38.42/zabbix/"
+                "https://10.0.38.42/control-system-constants"
             ]
         },
         {
-            "title": "Docker Management Interface",
-            "desc": "A simple management solution for Docker.",
+            "title": "Configuration service",
+            "desc": "Configuration service.",
             "links": [
-                "https://10.0.38.42/portainer/"
+                "http://10.0.38.42/config-db/stats"
             ]
         },
         {
