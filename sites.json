@@ -29,6 +29,13 @@
             ]
         },
         {
+            "title": "Zabbix",
+            "desc": "Zabbix",
+            "links": [
+                "https://10.0.38.42/zabbix"
+            ]
+        },
+        {
             "title": "Beaglebone Black",
             "desc": "A simple react app to manage beaglebones.",
             "links": [
