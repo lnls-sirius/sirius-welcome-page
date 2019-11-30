@@ -76,6 +76,20 @@
             "links": [
                 "https://gitlab.cnpem.br/users/sign_in"
             ]
+        },
+        {
+            "title": "EPICS Remote Logging",
+            "desc": "Generic EPICS logging, including CaputLog",
+            "links": [
+                "https://10.0.38.42/cons-epics-logging"
+            ]
+        },
+        {
+            "title": "HTTP EPICS Test",
+            "desc": "HTTP EPICS Test",
+            "links": [
+                "http://10.0.6.48:8080/epics"
+            ]
         }
     ]
 }
