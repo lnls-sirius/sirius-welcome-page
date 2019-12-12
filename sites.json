@@ -88,7 +88,7 @@
             "title": "HTTP EPICS Test",
             "desc": "HTTP EPICS Test",
             "links": [
-                "http://10.0.6.48:8080/epics"
+                "http://10.0.38.59:20191/cons-http-epics"
             ]
         }
     ]
