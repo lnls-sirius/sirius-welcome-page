@@ -90,6 +90,13 @@
             "links": [
                 "http://10.0.38.59:20191/cons-http-epics"
             ]
+        },
+        {
+            "title": "Phebus Alarm - Kibana",
+            "desc": "Phoebus alarm server data",
+            "links": [
+                "http://10.0.38.42:5602"
+            ]
         }
     ]
 }
