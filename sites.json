@@ -97,6 +97,20 @@
             "links": [
                 "http://10.0.38.42:5602"
             ]
+        },
+        {
+            "title": "Low-Level RF FDL - Booster",
+            "desc": "Low-Level RF FDL - Booster",
+            "links": [
+                "http://10.0.38.42/fdl-bo/"
+            ]
+        },
+        {
+            "title": "Low-Level RF FDL - Storage Ring",
+            "desc": "Low-Level RF FDL - Storage Ring",
+            "links": [
+                "http://10.0.38.42/fdl-sr/"
+            ]
         }
     ]
 }
