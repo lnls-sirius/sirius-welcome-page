@@ -85,10 +85,10 @@
             ]
         },
         {
-            "title": "HTTP EPICS Test",
-            "desc": "HTTP EPICS Test",
+            "title": "HTTP EPICS - Simple Client",
+            "desc": "HTTP EPICS - Simple Client",
             "links": [
-                "http://10.0.38.59:20191/cons-http-epics"
+                "http://10.0.38.59/cons-http-epics"
             ]
         },
         {
