@@ -4,21 +4,7 @@
             "title": "Archiver Viewer",
             "desc": "A jQuery-based EPICS Archiver viewer.",
             "links": [
-                "https://10.0.38.42/retrieval/ui/archiver-viewer/index.html"
-            ]
-        },
-        {
-            "title": "Archiver Viewer - Beta",
-            "desc": "A jQuery-based EPICS Archiver viewer. Beta Version.",
-            "links": [
                 "https://10.0.38.42/archiver-viewer"
-            ]
-        },
-        {
-            "title": "EPICS Olog",
-            "desc": "EPICS journal.",
-            "links": [
-                "https://10.0.38.42/olog"
             ]
         },
         {
@@ -29,6 +15,34 @@
             ]
         },
         {
+            "title": "EPICS Olog",
+            "desc": "EPICS journal.",
+            "links": [
+                "https://10.0.38.42/olog"
+            ]
+        },
+        {
+            "title": "VACS - Pressure Mon",
+            "desc": "VACS - Cold Cathode Gauge Pressure Monitor",
+            "links": [
+                "http://10.0.38.42/OPI/VACS/CCG"
+            ]
+        },
+        {
+            "title": "RADS - Gamma Detectors",
+            "desc": "RADS - Gamma Detectors",
+            "links": [
+                "http://10.0.38.42/OPI/RADS/GAMMA"
+            ]
+        },
+        {
+            "title": "RADS - Monitors",
+            "desc": "RADS - Monitors",
+            "links": [
+                "http://10.0.38.42/OPI/RADS/MONITOR"
+            ]
+        },
+        {
             "title": "Zabbix",
             "desc": "Zabbix",
             "links": [
@@ -36,10 +50,17 @@
             ]
         },
         {
+            "title": "GitLab CNPEM",
+            "desc": "GitLab CNPEM",
+            "links": [
+                "https://gitlab.cnpem.br"
+            ]
+        },
+        {
             "title": "Beaglebone Black",
             "desc": "A simple react app to manage beaglebones.",
             "links": [
-                "https://10.128.255.5/bbb-daemon"
+                "https://10.0.38.42/bbb-daemon"
             ]
         },
         {
@@ -64,20 +85,6 @@
             ]
         },
         {
-            "title": "Official GitHub",
-            "desc": "GitHub page.",
-            "links": [
-                "https://github.com/lnls-sirius"
-            ]
-        },
-        {
-            "title": "Official GitLab",
-            "desc": "GitLab page.",
-            "links": [
-                "https://gitlab.cnpem.br/users/sign_in"
-            ]
-        },
-        {
             "title": "EPICS Remote Logging",
             "desc": "Generic EPICS logging, including CaputLog",
             "links": [
@@ -89,13 +96,6 @@
             "desc": "HTTP EPICS - Simple Client",
             "links": [
                 "http://10.0.38.59/cons-http-epics"
-            ]
-        },
-        {
-            "title": "Phebus Alarm - Kibana",
-            "desc": "Phoebus alarm server data",
-            "links": [
-                "http://10.0.38.42:5602"
             ]
         },
         {
