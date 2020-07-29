@@ -43,6 +43,13 @@
             ]
         },
         {
+            "title": "RAD - Linac E-Gun Interlock",
+            "desc": "RAD - Linac E-Gun Interlock",
+            "links": [
+                "http://10.0.38.42/OPI/RADS/INTERLOCK"
+            ]
+        },
+        {
             "title": "Zabbix",
             "desc": "Zabbix",
             "links": [
