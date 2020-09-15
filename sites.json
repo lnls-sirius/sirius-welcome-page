@@ -118,6 +118,23 @@
             "links": [
                 "http://10.0.38.42/fdl-sr/"
             ]
+        },
+        {
+            "title": "DHCP Information - Control Network",
+            "desc": "DHCP Information - Control Network",
+            "links": [
+                "http://10.0.38.42:3000/dhcp_leases",
+                "http://10.0.38.46:3000/dhcp_leases",
+                "http://10.0.38.59:3000/dhcp_leases"
+            ]
+        },
+        {
+            "title": "DHCP Information - Sirius",
+            "desc": "DHCP Information - Sirius",
+            "links": [
+                "http://dhcp.cnpem.br"
+            ]
         }
+
     ]
 }
