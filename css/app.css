@@ -1,0 +1,40 @@
+.main-display{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card-item {
+   margin: 0.2rem 0.8rem;
+   transition: box-shadow 0.3s;
+   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+}
+
+.card-item:hover {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+@media screen and (max-width: 1280px) {
+    .main-display {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .main-display {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .main-display {
+	flex-direction: column; /* IE Fix */
+	display: grid;
+	grid-template-columns:  1fr;
+	justify-self: center;
+    }
+}

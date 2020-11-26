@@ -22,6 +22,14 @@
             ]
         },
         {
+            "title": "Component Database Portal",
+            "desc": "Component Database Portal",
+            "links": [
+                "https://10.0.38.46/cdb",
+                "https://10.0.38.59/cdb"
+            ]
+        },
+        {
             "title": "VACS - Pressure Mon",
             "desc": "VACS - Cold Cathode Gauge Pressure Monitor",
             "links": [

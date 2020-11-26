@@ -4,6 +4,7 @@
 <head>
 
   <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Just a simple welcome page.">
   <meta name="author" content="Claudio Carneiro">
@@ -13,6 +14,7 @@
 
   <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/app.css" rel="stylesheet">
 
 </head>
 
@@ -31,22 +33,18 @@
   </nav>
 
   <!-- Page Content -->
-  <div class="container ">
-    <div class="row">
-        {{#sites}}
-            <div class="col-md-6">
-            <div class="card mb-2 mt-2 shadow-sm text-center">
-                <div class="card-body">
-                    <h4 class="card-title">{{{title}}}</h5>
-                    <p class="card-text">{{{desc}}}</p>
-                    {{#links}}
-		    <div><a href="{{{.}}}" target="_blank">{{{.}}}</a></div>
-                    {{/links}}
-                </div>
-            </div>
-            </div>
-        {{/sites}}
+  <div class="main-display">
+    {{#sites}}
+    <div class="card text-center card-item">
+      <div class="card-body">
+        <h4 class="card-title">{{{title}}}</h5>
+        <p class="card-text">{{{desc}}}</p>
+        {{#links}}
+          <div><a href="{{{.}}}" target="_blank">{{{.}}}</a></div>
+        {{/links}}
+      </div>
     </div>
+    {{/sites}}
   </div>
   <!-- Bootstrap core JavaScript -->
   <script src="js/jquery.min.js"></script>
