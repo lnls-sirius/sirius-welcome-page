@@ -30,6 +30,14 @@
             ]
         },
         {
+            "title": "InvenTree",
+            "desc": "Inventory management system with parts management and stock control.",
+            "links": [
+                "https://10.0.38.46/inventree",
+                "https://10.0.38.59/inventree"
+            ]
+        },
+        {
             "title": "VACS - Pressure Mon",
             "desc": "VACS - Cold Cathode Gauge Pressure Monitor",
             "links": [
@@ -141,6 +149,14 @@
             "desc": "DHCP Information - Sirius",
             "links": [
                 "http://dhcp.cnpem.br"
+            ]
+        },
+        {
+            "title": "MailPy - EPICS Email notifications",
+            "desc": "Email based on predefined rules",
+            "links": [
+                "https://10.0.38.46/mailpy",
+                "https://10.0.38.59/mailpy"
             ]
         }
 
