@@ -115,13 +115,6 @@
             ]
         },
         {
-            "title": "HTTP EPICS - Simple Client",
-            "desc": "HTTP EPICS - Simple Client",
-            "links": [
-                "http://10.0.38.59/cons-http-epics"
-            ]
-        },
-        {
             "title": "Low-Level RF FDL - Booster",
             "desc": "Low-Level RF FDL - Booster",
             "links": [
