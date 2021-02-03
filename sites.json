@@ -151,7 +151,15 @@
                 "https://10.0.38.46/mailpy",
                 "https://10.0.38.59/mailpy"
             ]
+        },
+        {
+            "title": "Portainer",
+            "desc": "Container management GUI",
+            "links": [
+                "https://10.0.38.42:9000",
+                "https://10.0.38.46:9000",
+                "https://10.0.38.59:9000"
+            ]
         }
-
     ]
 }
