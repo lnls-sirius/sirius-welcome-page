@@ -2,7 +2,7 @@
     "sites": [
         {
             "title": "Archiver Viewer",
-            "desc": "A jQuery-based EPICS Archiver viewer.",
+            "desc": "EPICS Archiver viewer.",
             "links": [
                 "https://10.0.38.42/archiver-viewer"
             ]
