@@ -156,9 +156,14 @@
             "title": "Portainer",
             "desc": "Container management GUI",
             "links": [
-                "https://10.0.38.42:9000",
-                "https://10.0.38.46:9000",
                 "https://10.0.38.59:9000"
+            ]
+        },
+        {
+            "title": "Taiga",
+            "desc": "Taiga is a project management platform",
+            "links": [
+                "https://10.0.38.46:9011"
             ]
         }
     ]
