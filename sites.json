@@ -118,14 +118,14 @@
             "title": "Low-Level RF FDL - Booster",
             "desc": "Low-Level RF FDL - Booster",
             "links": [
-                "http://10.0.38.42/fdl-bo/"
+                "http://10.0.38.42/fdl-bo/?C=M;O=D"
             ]
         },
         {
             "title": "Low-Level RF FDL - Storage Ring",
             "desc": "Low-Level RF FDL - Storage Ring",
             "links": [
-                "http://10.0.38.42/fdl-sr/"
+                "http://10.0.38.42/fdl-sr/?C=M;O=D"
             ]
         },
         {
@@ -165,6 +165,15 @@
             "links": [
                 "https://10.0.38.46:9011"
             ]
-        }
+        },
+	{
+            "title": "EPICS Archiver - Management interface",
+            "desc": "EPICS Archiver - Management interface",
+            "links": [
+                "https://10.0.38.42/OPI/ARCHIVER/MGMT",
+                "https://10.0.38.46/OPI/ARCHIVER/MGMT",
+                "https://10.0.38.59/OPI/ARCHIVER/MGMT"
+            ]
+	}
     ]
 }
