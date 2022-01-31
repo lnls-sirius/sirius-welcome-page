@@ -4,81 +4,81 @@
       "title": "Archiver Viewer",
       "desc": "EPICS Archiver viewer.",
       "links": [
-        "https://10.0.38.42/archiver-viewer"
+        "https://ais-eng-srv-ta.cnpem.br/archiver-viewer"
       ]
     },
     {
       "title": "Archiver - Management Interface",
       "desc": "A web interface to configure and monitor the appliances.",
       "links": [
-        "https://10.0.38.42/mgmt"
+        "https://ais-eng-srv-ta.cnpem.br/mgmt"
       ]
     },
     {
       "title": "Archiver - New PV Management Interface",
       "desc": "PV management interface aimed at batch operations",
       "links": [
-        "https://10.0.38.42/OPI/ARCHIVER/MGMT",
-        "https://10.0.38.46/OPI/ARCHIVER/MGMT",
-        "https://10.0.38.59/OPI/ARCHIVER/MGMT"
+        "https://ais-eng-srv-ta.cnpem.br/OPI/ARCHIVER/MGMT",
+        "https://ais-eng-srv-la.cnpem.br/OPI/ARCHIVER/MGMT",
+        "https://ais-eng-srv-ca.cnpem.br/OPI/ARCHIVER/MGMT"
       ]
     },
     {
       "title": "EPICS Olog",
       "desc": "EPICS journal.",
       "links": [
-        "https://10.0.38.42/olog"
+        "https://ais-eng-srv-ta.cnpem.br/olog"
       ]
     },
     {
       "title": "Component Database Portal",
       "desc": "Component Database Portal",
       "links": [
-        "https://10.0.38.46/cdb",
-        "https://10.0.38.59/cdb"
+        "https://ais-eng-srv-la.cnpem.br/cdb",
+        "https://ais-eng-srv-ca.cnpem.br/cdb"
       ]
     },
     {
       "title": "InvenTree",
       "desc": "Inventory management system with parts management and stock control.",
       "links": [
-        "https://10.0.38.46/inventree",
-        "https://10.0.38.59/inventree"
+        "https://ais-eng-srv-la.cnpem.br/inventree",
+        "https://ais-eng-srv-ca.cnpem.br/inventree"
       ]
     },
     {
       "title": "VACS - Pressure Mon",
       "desc": "VACS - Cold Cathode Gauge Pressure Monitor",
       "links": [
-        "http://10.0.38.42/OPI/VACS/CCG"
+        "http://ais-eng-srv-ta.cnpem.br/OPI/VACS/CCG"
       ]
     },
     {
       "title": "RADS - Gamma Detectors",
       "desc": "RADS - Gamma Detectors",
       "links": [
-        "http://10.0.38.42/OPI/RADS/GAMMA"
+        "http://ais-eng-srv-ta.cnpem.br/OPI/RADS/GAMMA"
       ]
     },
     {
       "title": "RADS - Monitors",
       "desc": "RADS - Monitors",
       "links": [
-        "http://10.0.38.42/OPI/RADS/MONITOR"
+        "http://ais-eng-srv-ta.cnpem.br/OPI/RADS/MONITOR"
       ]
     },
     {
       "title": "RAD - Linac E-Gun Interlock",
       "desc": "RAD - Linac E-Gun Interlock",
       "links": [
-        "http://10.0.38.42/OPI/RADS/INTERLOCK"
+        "http://ais-eng-srv-ta.cnpem.br/OPI/RADS/INTERLOCK"
       ]
     },
     {
       "title": "Zabbix",
       "desc": "Zabbix",
       "links": [
-        "https://10.0.38.42/zabbix"
+        "https://ais-eng-srv-ta.cnpem.br/zabbix"
       ]
     },
     {
@@ -92,21 +92,22 @@
       "title": "Beaglebone Black",
       "desc": "A simple react app to manage beaglebones.",
       "links": [
-        "https://10.0.38.42/bbb-daemon"
+        "https://ais-eng-srv-ta.cnpem.br/bbb-daemon"
       ]
     },
     {
       "title": "Control-system Constants",
       "desc": "Control-system constants page.",
       "links": [
-        "https://10.0.38.42/control-system-constants"
+        "https://ais-eng-srv-la.cnpem.br/control-system-constants",
+        "https://ais-eng-srv-ca.cnpem.br/control-system-constants"
       ]
     },
     {
       "title": "Configuration service",
       "desc": "Configuration service.",
       "links": [
-        "http://10.0.38.42/config-db/stats"
+        "http://ais-eng-srv-ta.cnpem.br/config-db/stats"
       ]
     },
     {
@@ -120,30 +121,30 @@
       "title": "EPICS Remote Logging",
       "desc": "Generic EPICS logging, including CaputLog",
       "links": [
-        "https://10.0.38.42/cons-epics-logging"
+        "https://ais-eng-srv-ta.cnpem.br/cons-epics-logging"
       ]
     },
     {
       "title": "Low-Level RF FDL - Booster",
       "desc": "Low-Level RF FDL - Booster",
       "links": [
-        "http://10.0.38.42/fdl-bo/?C=M;O=D"
+        "http://ais-eng-srv-ta.cnpem.br/fdl-bo/?C=M;O=D"
       ]
     },
     {
       "title": "Low-Level RF FDL - Storage Ring",
       "desc": "Low-Level RF FDL - Storage Ring",
       "links": [
-        "http://10.0.38.42/fdl-sr/?C=M;O=D"
+        "http://ais-eng-srv-ta.cnpem.br/fdl-sr/?C=M;O=D"
       ]
     },
     {
       "title": "DHCP Information - Control Network",
       "desc": "DHCP Information - Control Network",
       "links": [
-        "http://10.0.38.42:3000/dhcp_leases",
-        "http://10.0.38.46:3000/dhcp_leases",
-        "http://10.0.38.59:3000/dhcp_leases"
+        "http://ais-eng-srv-ta.cnpem.br:3000/dhcp_leases",
+        "http://ais-eng-srv-la.cnpem.br:3000/dhcp_leases",
+        "http://ais-eng-srv-ca.cnpem.br:3000/dhcp_leases"
       ]
     },
     {
@@ -157,48 +158,48 @@
       "title": "MailPy - EPICS Email notifications",
       "desc": "Email based on predefined rules",
       "links": [
-        "https://10.0.38.46/mailpy",
-        "https://10.0.38.59/mailpy"
+        "https://ais-eng-srv-la.cnpem.br/mailpy",
+        "https://ais-eng-srv-ca.cnpem.br/mailpy"
       ]
     },
     {
       "title": "Portainer",
       "desc": "Container management GUI",
       "links": [
-        "https://10.0.38.59:9000"
+        "https://ais-eng-srv-ca.cnpem.br:9000"
       ]
     },
     {
       "title": "Taiga",
       "desc": "Taiga is a project management platform",
       "links": [
-        "https://10.0.38.46:9011"
+        "https://taiga.lnls.br"
       ]
     },
     {
       "title": "Jupyter - RF",
       "desc": "Jupyter servers - RF",
       "links": [
-          "https://10.0.38.46/jupyter-si/lab",
-          "https://10.0.38.46/jupyter-bo/lab"
+          "https://ais-eng-srv-la.cnpem.br/jupyter-si/lab",
+          "https://ais-eng-srv-la.cnpem.br/jupyter-bo/lab"
       ]
     },
     {
       "title": "GOP - SMS Notification",
       "desc": "",
       "links": [
-          "http://10.0.38.42:20095/sms_service",
-          "http://10.0.38.46:20095/sms_service",
-          "http://10.0.38.59:20095/sms_service"
+          "http://ais-eng-srv-ta.cnpem.br/sms_service",
+          "http://ais-eng-srv-la.cnpem.br/sms_service",
+          "http://ais-eng-srv-ca.cnpem.br/sms_service"
       ]
     },
     {
       "title": "IoT",
       "desc": "",
       "links": [
-          "http://10.0.38.42:20096/iot",
-          "http://10.0.38.46:20096/iot",
-          "http://10.0.38.59:20096/iot"
+          "http://ais-eng-srv-ta.cnpem.br:20096/iot",
+          "http://ais-eng-srv-la.cnpem.br:20096/iot",
+          "http://ais-eng-srv-ca.cnpem.br:20096/iot"
       ]
     }
   ]
