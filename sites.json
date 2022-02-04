@@ -89,10 +89,10 @@
       ]
     },
     {
-      "title": "Beaglebone Black",
-      "desc": "A simple react app to manage beaglebones.",
+      "title": "Guacamole",
+      "desc": "A web interface for remote desktop access",
       "links": [
-        "https://ais-eng-srv-ta.cnpem.br/bbb-daemon"
+        "https://ais-eng-srv-ta.cnpem.br/guacamole"
       ]
     },
     {
