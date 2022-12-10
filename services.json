@@ -104,10 +104,10 @@
       ]
     },
     {
-      "title": "Configuration service",
-      "desc": "Configuration service.",
+      "title": "ConfigDB service",
+      "desc": "Configuration DB service.",
       "links": [
-        "http://ais-eng-srv-ta.cnpem.br/config-db/stats"
+        "http://ais-eng-srv-ta.cnpem.br/control-system-constants/documentation/services/configdb.html"
       ]
     },
     {
