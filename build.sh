@@ -1,3 +1,3 @@
 #!/bin/bash
 set -x
-mustache sites.json template.mustache > index.html
+mustache services.json template.mustache > index.html

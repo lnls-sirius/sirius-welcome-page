@@ -1,7 +1,9 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
 import pystache
 import json
-with open('sites.json', 'r') as _f:
+
+with open('services.json', 'r') as _f:
     data = json.load(_f)
 with open('template.mustache', 'r') as _f:
     template = ''.join(_f.readlines())

@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "title": "Archiver Viewer",
+      "title": "Archiver - Viewer",
       "desc": "EPICS Archiver viewer.",
       "links": [
         "https://ais-eng-srv-ta.cnpem.br/archiver-viewer"
@@ -25,7 +25,7 @@
     },
     {
       "title": "EPICS Olog",
-      "desc": "EPICS journal.",
+      "desc": "SIRIUS journal.",
       "links": [
         "https://ais-eng-srv-ta.cnpem.br/olog"
       ]
@@ -104,15 +104,15 @@
       ]
     },
     {
-      "title": "Configuration service",
-      "desc": "Configuration service.",
+      "title": "ConfigDB service",
+      "desc": "Configuration DB service.",
       "links": [
-        "http://ais-eng-srv-ta.cnpem.br/config-db/stats"
+        "http://ais-eng-srv-ta.cnpem.br/control-system-constants/documentation/services/configdb.html"
       ]
     },
     {
       "title": "WikiSirius",
-      "desc": "Wiki-sirius page.",
+      "desc": "SIRIUS Wiki pages.",
       "links": [
         "https://wiki-sirius.lnls.br/mediawiki/index.php"
       ]
@@ -170,6 +170,13 @@
       ]
     },
     {
+      "title": "Docker Registry",
+      "desc": "Page for Docker image's storage and distribution",
+      "links": [
+        "https://ais-eng-srv-ta.cnpem.br:23124/"
+      ]
+    },
+    {
       "title": "Taiga",
       "desc": "Taiga is a project management platform",
       "links": [
@@ -186,7 +193,7 @@
     },
     {
       "title": "GOP - SMS Notification",
-      "desc": "",
+      "desc": "SMS notification services for SIRIUS",
       "links": [
           "http://ais-eng-srv-ta.cnpem.br/sms_service",
           "http://ais-eng-srv-la.cnpem.br/sms_service",
@@ -194,12 +201,18 @@
       ]
     },
     {
-      "title": "IoT",
-      "desc": "",
+      "title": "SEI",
+      "desc": "Electronic Systems and Instrumentation - Services",
       "links": [
-          "http://ais-eng-srv-ta.cnpem.br:20096/iot",
-          "http://ais-eng-srv-la.cnpem.br:20096/iot",
-          "http://ais-eng-srv-ca.cnpem.br:20096/iot"
+          "https://ais-eng-srv-ca.cnpem.br/sei/",
+          "https://ais-eng-srv-ta.cnpem.br/sei/"
+      ]
+    },
+    {
+      "title": "Infofeixe",
+      "desc": "Beam and beamlines information",
+      "links": [
+          "https://infofeixe.cnpem.br/"
       ]
     }
   ]
