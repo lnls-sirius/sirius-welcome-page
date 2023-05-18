@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  backend:
+    container_name: 'welcome-page'
+    image: 'ghcr.io/lnls-sirius/sirius-welcome-page:1.0.1'
+    build:
+      context: .
