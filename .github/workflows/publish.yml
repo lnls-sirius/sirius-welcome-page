@@ -1,13 +1,8 @@
 name: Sirius Welcome Page CD
 
-# on:
-#   release:
-#     types: [created]
-
 on:
-  pull_request:
-    branches: master
-
+  release:
+    types: [created]
 
 jobs:
   deploy:
