@@ -29,5 +29,5 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.WELC_PAGE }}
 
-      # - name: Push Docker Compose 🪖
-      #   run: docker-compose push
+      - name: Push Docker Compose 🪖
+        run: docker-compose push
