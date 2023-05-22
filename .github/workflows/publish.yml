@@ -1,0 +1,28 @@
+name: Sirius Welcome Page CD
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@master
+
+      - name: Build Docker Compose 🏗️
+        run: docker-compose build
+
+      - name: Login to GitHub Container Registry 🔓
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.WELC_PAGE }}
+
+      - name: Push Docker Compose 🪖
+        run: docker-compose push
