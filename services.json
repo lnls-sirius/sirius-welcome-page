@@ -15,15 +15,6 @@
       ]
     },
     {
-      "title": "Archiver - New PV Management Interface",
-      "desc": "PV management interface aimed at batch operations",
-      "links": [
-        "https://ais-eng-srv-ta.cnpem.br/OPI/ARCHIVER/MGMT",
-        "https://ais-eng-srv-la.cnpem.br/OPI/ARCHIVER/MGMT",
-        "https://ais-eng-srv-ca.cnpem.br/OPI/ARCHIVER/MGMT"
-      ]
-    },
-    {
       "title": "EPICS Olog",
       "desc": "SIRIUS journal.",
       "links": [
@@ -39,25 +30,17 @@
       ]
     },
     {
-      "title": "InvenTree",
-      "desc": "Inventory management system with parts management and stock control.",
-      "links": [
-        "https://ais-eng-srv-la.cnpem.br/inventree",
-        "https://ais-eng-srv-ca.cnpem.br/inventree"
-      ]
-    },
-    {
       "title": "VACS - Pressure Mon",
       "desc": "VACS - Cold Cathode Gauge Pressure Monitor",
       "links": [
-        "http://ais-eng-srv-ta.cnpem.br/OPI/VACS/CCG"
+        "http://vac-mon.lnls.br"
       ]
     },
     {
       "title": "RADS - Gamma Detectors",
       "desc": "RADS - Gamma Detectors",
       "links": [
-        "http://ais-eng-srv-ta.cnpem.br/OPI/RADS/GAMMA"
+        "http://gamma-mon.lnls.br"
       ]
     },
     {
@@ -68,6 +51,13 @@
       ]
     },
     {
+      "title": "New RADS Monitors",
+      "desc": "New RADS Monitors",
+      "links": [
+        "https://rad-mon.lnls.br"
+      ]
+    },
+    {
       "title": "RAD - Linac E-Gun Interlock",
       "desc": "RAD - Linac E-Gun Interlock",
       "links": [
@@ -75,10 +65,17 @@
       ]
     },
     {
+      "title": "COD Monitor",
+      "desc": "Closed Orbit Distortion Monitor",
+      "links": [
+        "http://cod-mon.lnls.br"
+      ]
+    },
+    {
       "title": "Zabbix",
       "desc": "Zabbix",
       "links": [
-        "https://ais-eng-srv-ta.cnpem.br/zabbix"
+        "https://zabbix.lnls.br"
       ]
     },
     {
@@ -114,14 +111,14 @@
       "title": "WikiSirius",
       "desc": "SIRIUS Wiki pages.",
       "links": [
-        "https://wiki-sirius.lnls.br/mediawiki/index.php"
+        "https://wiki-sirius.lnls.br"
       ]
     },
     {
-      "title": "EPICS Remote Logging",
-      "desc": "Generic EPICS logging, including CaputLog",
+      "title": "SwC Wiki",
+      "desc": "SwC Wiki pages.",
       "links": [
-        "https://ais-eng-srv-ta.cnpem.br/cons-epics-logging"
+        "http://swc.lnls.br"
       ]
     },
     {
@@ -173,14 +170,7 @@
       "title": "Docker Registry",
       "desc": "Page for Docker image's storage and distribution",
       "links": [
-        "https://ais-eng-srv-ta.cnpem.br:23124/"
-      ]
-    },
-    {
-      "title": "Taiga",
-      "desc": "Taiga is a project management platform",
-      "links": [
-        "https://taiga.lnls.br"
+        "https://ais-eng-srv-ta.cnpem.br:23124"
       ]
     },
     {
@@ -204,15 +194,15 @@
       "title": "SEI",
       "desc": "Electronic Systems and Instrumentation - Services",
       "links": [
-          "https://ais-eng-srv-ca.cnpem.br/sei/",
-          "https://ais-eng-srv-ta.cnpem.br/sei/"
+          "https://ais-eng-srv-ca.cnpem.br/sei",
+          "https://ais-eng-srv-ta.cnpem.br/sei"
       ]
     },
     {
       "title": "Infofeixe",
       "desc": "Beam and beamlines information",
       "links": [
-          "https://infofeixe.cnpem.br/"
+          "https://infofeixe.cnpem.br"
       ]
     }
   ]
