@@ -152,14 +152,6 @@
       ]
     },
     {
-      "title": "MailPy - EPICS Email notifications",
-      "desc": "Email based on predefined rules",
-      "links": [
-        "https://ais-eng-srv-la.cnpem.br/mailpy",
-        "https://ais-eng-srv-ca.cnpem.br/mailpy"
-      ]
-    },
-    {
       "title": "Portainer",
       "desc": "Container management GUI",
       "links": [
