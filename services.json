@@ -75,7 +75,8 @@
       "title": "Zabbix",
       "desc": "Zabbix",
       "links": [
-        "https://zabbix.lnls.br"
+        "https://zabbix.lnls.br",
+        "https://ais-eng-srv-ta.cnpem.br/zabbix"
       ]
     },
     {
