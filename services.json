@@ -25,8 +25,7 @@
       "title": "Component Database Portal",
       "desc": "Component Database Portal",
       "links": [
-        "https://ais-eng-srv-la.cnpem.br/cdb",
-        "https://ais-eng-srv-ca.cnpem.br/cdb"
+        "https://ais-eng-srv-ta.cnpem.br/cdb"
       ]
     },
     {
@@ -97,8 +96,7 @@
       "title": "Control-system Constants",
       "desc": "Control-system constants page.",
       "links": [
-        "https://ais-eng-srv-la.cnpem.br/control-system-constants",
-        "https://ais-eng-srv-ca.cnpem.br/control-system-constants"
+        "https://ais-eng-srv-ta.cnpem.br/control-system-constants"
       ]
     },
     {
@@ -140,9 +138,7 @@
       "title": "DHCP Information - Control Network",
       "desc": "DHCP Information - Control Network",
       "links": [
-        "http://ais-eng-srv-ta.cnpem.br:3000/dhcp_leases",
-        "http://ais-eng-srv-la.cnpem.br:3000/dhcp_leases",
-        "http://ais-eng-srv-ca.cnpem.br:3000/dhcp_leases"
+        "http://ais-eng-srv-ta.cnpem.br:3000/dhcp_leases"
       ]
     },
     {
@@ -156,7 +152,7 @@
       "title": "Portainer",
       "desc": "Container management GUI",
       "links": [
-        "https://ais-eng-srv-ca.cnpem.br:9000"
+        "https://ais-eng-srv-ta.cnpem.br:9000"
       ]
     },
     {
@@ -170,24 +166,21 @@
       "title": "Jupyter - RF",
       "desc": "Jupyter servers - RF",
       "links": [
-          "https://ais-eng-srv-la.cnpem.br/jupyter-si/lab",
-          "https://ais-eng-srv-la.cnpem.br/jupyter-bo/lab"
+          "https://ais-eng-srv-ta.cnpem.br/jupyter-si/lab",
+          "https://ais-eng-srv-ta.cnpem.br/jupyter-bo/lab"
       ]
     },
     {
       "title": "GOP - SMS Notification",
       "desc": "SMS notification services for SIRIUS",
       "links": [
-          "http://ais-eng-srv-ta.cnpem.br/sms_service",
-          "http://ais-eng-srv-la.cnpem.br/sms_service",
-          "http://ais-eng-srv-ca.cnpem.br/sms_service"
+          "http://ais-eng-srv-ta.cnpem.br/sms_service"
       ]
     },
     {
       "title": "SEI",
       "desc": "Electronic Systems and Instrumentation - Services",
       "links": [
-          "https://ais-eng-srv-ca.cnpem.br/sei",
           "https://ais-eng-srv-ta.cnpem.br/sei"
       ]
     },
