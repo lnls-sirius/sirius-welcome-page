@@ -43,15 +43,8 @@
       ]
     },
     {
-      "title": "RADS - Monitors",
-      "desc": "RADS - Monitors",
-      "links": [
-        "http://ais-eng-srv-ta.cnpem.br/OPI/RADS/MONITOR"
-      ]
-    },
-    {
-      "title": "New RADS Monitors",
-      "desc": "New RADS Monitors",
+      "title": "RADS Monitors",
+      "desc": "RADS Monitors",
       "links": [
         "https://rad-mon.lnls.br"
       ]
