@@ -149,13 +149,6 @@
       ]
     },
     {
-      "title": "Docker Registry",
-      "desc": "Page for Docker image's storage and distribution",
-      "links": [
-        "https://ais-eng-srv-ta.cnpem.br:23124"
-      ]
-    },
-    {
       "title": "Jupyter - RF",
       "desc": "Jupyter servers - RF",
       "links": [
