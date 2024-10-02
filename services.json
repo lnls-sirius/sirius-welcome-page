@@ -176,6 +176,13 @@
       "links": [
           "https://infofeixe.cnpem.br"
       ]
+    },
+    {
+      "title": "BBBread",
+      "desc": "BeagleBone Activity Display",
+      "links": [
+          "https://ais-eng-srv-ca.cnpem.br/bbbread/"
+      ]
     }
   ]
 }
