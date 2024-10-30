@@ -135,6 +135,13 @@
       ]
     },
     {
+      "title": "Low-Level RF FDL - Storage Ring - B",
+      "desc": "Low-Level RF FDL - Storage Ring - B",
+      "links": [
+        "http://ais-eng-srv-ta.cnpem.br/fdl-sr-b/?C=M;O=D"
+      ]
+    },
+    {
       "title": "DHCP Information - Control Network",
       "desc": "DHCP Information - Control Network",
       "links": [
