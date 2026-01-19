@@ -22,13 +22,6 @@
       ]
     },
     {
-      "title": "Component Database Portal",
-      "desc": "Component Database Portal",
-      "links": [
-        "https://ais-eng-srv-ta.cnpem.br/cdb"
-      ]
-    },
-    {
       "title": "VACS - Pressure Mon",
       "desc": "VACS - Cold Cathode Gauge Pressure Monitor",
       "links": [
@@ -67,8 +60,7 @@
       "title": "Zabbix",
       "desc": "Zabbix",
       "links": [
-        "https://zabbix.lnls.br",
-        "https://ais-eng-srv-ta.cnpem.br/zabbix"
+        "https://zabbix.lnls.br"
       ]
     },
     {
@@ -142,13 +134,6 @@
       ]
     },
     {
-      "title": "DHCP Information - Control Network",
-      "desc": "DHCP Information - Control Network",
-      "links": [
-        "http://ais-eng-srv-ta.cnpem.br:3000/dhcp_leases"
-      ]
-    },
-    {
       "title": "DHCP Information - Sirius",
       "desc": "DHCP Information - Sirius",
       "links": [
@@ -168,20 +153,6 @@
       "links": [
           "https://ais-eng-srv-ta.cnpem.br/jupyter-si/lab",
           "https://ais-eng-srv-ta.cnpem.br/jupyter-bo/lab"
-      ]
-    },
-    {
-      "title": "GOP - SMS Notification",
-      "desc": "SMS notification services for SIRIUS",
-      "links": [
-          "http://ais-eng-srv-ta.cnpem.br/sms_service"
-      ]
-    },
-    {
-      "title": "SEI",
-      "desc": "Electronic Systems and Instrumentation - Services",
-      "links": [
-          "https://ais-eng-srv-ta.cnpem.br/sei"
       ]
     },
     {
