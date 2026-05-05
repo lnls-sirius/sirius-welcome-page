@@ -71,13 +71,6 @@
       ]
     },
     {
-      "title": "Guacamole",
-      "desc": "A web interface for remote desktop access",
-      "links": [
-        "https://ais-eng-srv-ta.cnpem.br/guacamole"
-      ]
-    },
-    {
       "title": "Control-system Constants",
       "desc": "Control-system constants page.",
       "links": [
