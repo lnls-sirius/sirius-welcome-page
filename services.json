@@ -141,6 +141,13 @@
       ]
     },
     {
+      "title": "Loki",
+      "desc": "Centralized logs server",
+      "links": [
+          "https://loki.lnls.br/"
+      ]
+    },
+    {
       "title": "Jupyter - RF",
       "desc": "Jupyter servers - RF",
       "links": [
