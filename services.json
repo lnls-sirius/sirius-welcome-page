@@ -148,14 +148,6 @@
       ]
     },
     {
-      "title": "Jupyter - RF",
-      "desc": "Jupyter servers - RF",
-      "links": [
-          "https://ais-eng-srv-ta.cnpem.br/jupyter-si/lab",
-          "https://ais-eng-srv-ta.cnpem.br/jupyter-bo/lab"
-      ]
-    },
-    {
       "title": "Infofeixe",
       "desc": "Beam and beamlines information",
       "links": [
