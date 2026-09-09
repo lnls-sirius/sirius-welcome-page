@@ -4,7 +4,7 @@
       "title": "Archiver - Viewer",
       "desc": "EPICS Archiver viewer.",
       "links": [
-        "http://archiver-viewer.lnls.br"
+        "https://archiver-viewer.lnls.br"
       ]
     },
     {
@@ -25,14 +25,14 @@
       "title": "VACS - Pressure Mon",
       "desc": "VACS - Cold Cathode Gauge Pressure Monitor",
       "links": [
-        "http://vac-mon.lnls.br"
+        "https://vac-mon.lnls.br"
       ]
     },
     {
       "title": "RADS - Gamma Detectors",
       "desc": "RADS - Gamma Detectors",
       "links": [
-        "http://gamma-mon.lnls.br"
+        "https://gamma-mon.lnls.br"
       ]
     },
     {
